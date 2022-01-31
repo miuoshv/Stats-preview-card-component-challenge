@@ -214,4 +214,9 @@ p {
   #informations span {
     font-size: 1rem;
   }
+
+  #informations div,
+  #informations div:last-of-type {
+    padding: 1.2rem 0 0 0;
+  }
 }
